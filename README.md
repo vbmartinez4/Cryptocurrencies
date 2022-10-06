@@ -25,5 +25,10 @@ Once the dimensions are reduced, we look to apply a clustering technique to the 
 
 ![elbow curve](Images/elbow_curve.png)
 
-For the visualization component of our analysis, we create a scatter plot that depicts the distinct groups that correspond to the three principal components created. Separately, we create a new table depicting all of the currently tradeable cryptocurrencies. Ultimately, while the scatter plot created does serve as a helpul visualization tool, the 3D model serves to clearly outline the group of clusters, or classes, created and how they are grouped together. 
+For the visualization component of our analysis, we create a scatter plot that depicts the distinct groups that correspond to the three principal components created. Separately, we create a new table depicting all of the currently tradeable cryptocurrencies.
 
+![table](Images/trading_cryptos.png)
+
+Ultimately, while the scatter plot created does serve as a helpul visualization tool, the 3D model serves to clearly outline the group of clusters, or classes, created and how they are grouped together. 
+
+![3D model](Images/3D_model.png)
