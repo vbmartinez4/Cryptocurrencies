@@ -23,4 +23,7 @@ Before we can run any algorithms, we first focus on cleaning and preprocessing t
 
 Once the dimensions are reduced, we look to apply a clustering technique to the dataset, creating groups from out points. To determine the amount cluster for the size of the cryptocurrency data, the elbow curve and K-means algorithm are applied in our analysis. 
 
-For the visualization component of our analysis, we create a scatter plot that depicts the distinct groups that correspond to the three principal components created. Separately, we create a new table depicting all of the currently tradeable cryptocurrencies. 
+![elbow curve](Images/elbow_curve.png)
+
+For the visualization component of our analysis, we create a scatter plot that depicts the distinct groups that correspond to the three principal components created. Separately, we create a new table depicting all of the currently tradeable cryptocurrencies. Ultimately, while the scatter plot created does serve as a helpul visualization tool, the 3D model serves to clearly outline the group of clusters, or classes, created and how they are grouped together. 
+
